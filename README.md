@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vsrn666
-- 👀 I’m interested in ...Learn
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...Learn and learn more.
+- 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vsrn ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼#5529
 
